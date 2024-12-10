@@ -10,8 +10,7 @@ A new project  made in Flutter with clean architecture using BLoC.
 - Filter Feature
 - FavouriteList
   
-![Uploading Screenshot 1446-06-08 at 10.59.27 AM.png…]()
-<img width="355" alt="Screenshot 1446-06-08 at 11 00 49 AM" src="https://github.com/user-attachments/assets/c077dd70-ddbb-45d7-a472-fae2fdd21a65">
-<img width="347" alt="Screenshot 1446-06-08 at 11 01 19 AM" src="https://github.com/user-attachments/assets/9943616d-67dc-4c93-9dae-db137e3190d9">
-![Uploading Screenshot 1446-06-08 at 11.01.54 AM.png…]()
-![Uploading Screenshot 1446-06-08 at 11.02.45 AM.png…]()
+![Image 1](https://github.com/user-attachments/assets/cbafd882-66f5-4c78-9823-64a1aaed6dfb)
+![Image 2](https://github.com/user-attachments/assets/2cea7e7c-1f92-4e73-bc37-8b4105a2bad1)
+![Image 3](https://github.com/user-attachments/assets/7fa9030e-4abc-460d-8993-58f0a5c1923c)
+![Image 4](https://github.com/user-attachments/assets/c2119ee1-998c-45f0-910b-8816a1921d2e)
